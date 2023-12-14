@@ -1,0 +1,38 @@
+[
+  {
+    "image": "../assets/chameleon.png",
+    "name": "chameleon"
+  },
+  {
+    "image": "../assets/chick.png",
+    "name": "chick"
+  },
+  {
+    "image": "../assets/dog.png",
+    "name": "dog"
+  },
+  {
+    "image": "../assets/elephant.png",
+    "name": "elephant"
+  },
+  {
+    "image": "../assets/frog.png",
+    "name": "frog"
+  },
+  {
+    "image": "../assets/lion.png",
+    "name": "lion"
+  },
+  {
+    "image": "../assets/monkey.png",
+    "name": "monkey"
+  },
+  {
+    "image": "../assets/whale.png",
+    "name": "whale"
+  },
+  {
+    "image": "../assets/wild-pig.png",
+    "name": "wild-pig"
+  }
+]
